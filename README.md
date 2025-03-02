@@ -1,2 +1,2 @@
 # Binomial-Option-Pricing-Model
-Study of Binomial Tree Option Pricing Model using Python 
+This small project is a study of Binomial Tree Option Pricing Model referenced from Hull "_Options, Futures, and Other Derivatives_". This project is in Python and uses numpy for computations of the binomial tree branches. The study consists of the pricing of call and put options, the difference between European and American Options, volatility matching, and the convergence of the binomial tree model and the Black Scholes Model.
